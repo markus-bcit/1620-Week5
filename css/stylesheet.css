@@ -10,13 +10,20 @@ background-color: beige;
 }
 
 span{
-    padding: 5px; 
+    padding-left: 5px; 
+    padding-right: 5px;
     border-top: 2px solid black;
     border-bottom: 4px solid grey;
 }
+
 p{
-    border-style: 10px;
+    border-width: 10px;
     border-color: lightgreen;
-    border-width: ridge;
+    border-style: ridge;
     margin: 5px;
+    /* border: 10px lightgreen ridge; */
+}
+
+h1{
+    font-family: Roboto, sans-serif;
 }
