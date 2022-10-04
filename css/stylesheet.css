@@ -5,6 +5,18 @@
 background-color: beige;
 }
 
-.headings-background{
+#london-heading{
     background-color: pink;
+}
+
+span{
+    padding: 5px; 
+    border-top: 2px solid black;
+    border-bottom: 4px solid grey;
+}
+p{
+    border-style: 10px;
+    border-color: lightgreen;
+    border-width: ridge;
+    margin: 5px;
 }
